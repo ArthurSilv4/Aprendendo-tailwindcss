@@ -6,7 +6,8 @@
 O projeto teve como objetivo aprender alguns comandos basicos do tailwindcss.
 
 ## Layout 
-![Inicial 1](https://github.com/ArthurSilv4/Buscar-Cep/blob/main/imgs/buscacep1.png) ![Inicial 2](https://github.com/ArthurSilv4/Buscar-Cep/blob/main/imgs/buscacep2.png)
+![Desktop](https://github.com/ArthurSilv4/Aprendendo-tailwindcss/blob/master/public/Tela%20desktop.png) 
+![Mobile](https://github.com/ArthurSilv4/Aprendendo-tailwindcss/blob/master/public/Tela%20mobile.png)
 
 # Tecnologias utilizadas
 - React
